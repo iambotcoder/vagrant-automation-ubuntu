@@ -1,4 +1,4 @@
-# 🚀 Vagrant Virtual Machine Automation
+# 🚀 Vagrant Virtual Machine Automation - Ubuntu Jammy
 
 ---
 
