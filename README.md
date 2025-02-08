@@ -80,7 +80,7 @@ ip addr show
 exit
 ``` 
 
-## 🐾 Vagrant Setup
+## 🐾 Vagrant Setup 🖥️
 
 Below is the `Vagrantfile` configuration used for this project:
 
@@ -124,11 +124,11 @@ end
 
 To remove the VM and free up system resources, run the following commands in order:
 
-1⃣ Destroy the Virtual Machine:
+### 1⃣ Destroy the Virtual Machine:
    ```bash
    vagrant destroy
    ```
-2⃣ Remove Unused Vagrant Instances:
+### 2⃣ Remove Unused Vagrant Instances:
    ```bash
    vagrant global-status --prune
    ```
